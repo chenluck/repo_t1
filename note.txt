@@ -8,3 +8,4 @@ v3. 20161008 modify
 				queue.h
 v4. 20161008 update in GITHUB online
 v5. list.h/portable.h
+v6  20161008 update in Hair

@@ -9,3 +9,4 @@ v3. 20161008 modify
 v4. 20161008 update in GITHUB online
 v5. list.h/portable.h
 v6  20161008 update in Hair
+v7  update in Hair local
